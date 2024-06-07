@@ -19,7 +19,7 @@ public class EvenOdd1 {
             }
         }
         scanner.close();
-        ;
+
 
     }
 
